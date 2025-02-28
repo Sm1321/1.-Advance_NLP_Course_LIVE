@@ -1,2 +1,3 @@
 # Advance_NLP_Course_LIVE
-- Needed to update the code files and pdf and other extra stuff here.
+- This notes are taken from the sunny Savita Live Classes
+- all credits goes to sunny Savita sir.
