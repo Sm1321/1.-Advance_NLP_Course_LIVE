@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/MY_Folder/MY_Courses/1.GEN_AI_LIVE_Classes/ipynb_files/venv\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

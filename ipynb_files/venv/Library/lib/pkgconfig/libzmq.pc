@@ -1,0 +1,12 @@
+prefix=c:/MY_Folder/MY_Courses/1.GEN_AI_LIVE_Classes/ipynb_files/venv/Library
+exec_prefix=c:/MY_Folder/MY_Courses/1.GEN_AI_LIVE_Classes/ipynb_files/venv/Library
+libdir=c:/MY_Folder/MY_Courses/1.GEN_AI_LIVE_Classes/ipynb_files/venv/Library/lib
+includedir=c:/MY_Folder/MY_Courses/1.GEN_AI_LIVE_Classes/ipynb_files/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
