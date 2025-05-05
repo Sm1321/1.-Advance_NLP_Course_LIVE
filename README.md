@@ -3,4 +3,4 @@
 - All credits goes to sunny Savita sir.
 - I have updated upto feb and i will do there later ,once i have done attending the classes
 - very large size due to this cannot push the file.
-- - nothing to update 
+  - ntng to update 
