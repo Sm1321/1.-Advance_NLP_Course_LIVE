@@ -1,9 +1,0 @@
-prefix=c:/MY_Folder/MY_Courses/1.GEN_AI_LIVE_Classes/ipynb_files/venv/Library 
-exec_prefix=${prefix}
-libdir=${exec_prefix}/lib
-includedir=${prefix}/include
-
-Name: OpenSSL
-Description: Secure Sockets Layer and cryptography libraries and tools
-Requires: libssl libcrypto
-Version: 3.4.1 
