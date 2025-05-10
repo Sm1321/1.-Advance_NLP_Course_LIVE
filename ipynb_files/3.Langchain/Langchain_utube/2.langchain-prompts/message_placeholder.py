@@ -8,7 +8,7 @@ chat_template = ChatPromptTemplate([
 
 chat_history = []
 # load chat history
-with open('chat_history.txt') as f:
+with open(r'C:\MY_Folder\MY_Courses\1.GEN_AI_LIVE_Classes\ipynb_files\3.Langchain\Langchain_utube\2.langchain-prompts\chat_history.txt') as f:
     chat_history.extend(f.readlines())
 
 print(chat_history)
