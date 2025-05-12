@@ -3,4 +3,4 @@
 - All credits goes to sunny Savita sir.
 - I have updated this Repo and added all the files 
 - Added the Langchain Files and will update more 
-- Updated the Langchain Folder upto the chains and the Runnables Concept.
+- Updated the Langchain Folder upto the chains and the Runnables Concept
